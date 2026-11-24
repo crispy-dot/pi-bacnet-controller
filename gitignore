@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+dhtenv/
+venv/
+.venv/
+
+# Misc
+.DS_Store
+*.log

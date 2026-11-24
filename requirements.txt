@@ -1,0 +1,2 @@
+# gpiozero comes from apt: sudo apt install python3-gpiozero
+adafruit-circuitpython-dht
